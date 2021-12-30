@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+  background-color: rgb(50, 147, 233);
+  background-image: linear-gradient(45deg , rgb(50, 147, 233) , #9697fd);
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.2em;
+  text-align: center;
+  overflow-y:hidden;
+  
+}
+
+a {
+  text-decoration: none;
+  color: darkred;
+}
+
+a:active {
+  color: darkorange;
+}
+
+footer {
+  font-size: 0.7em;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+
+#home {
+  margin: auto;
+  align-items: center;
+}
